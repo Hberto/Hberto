@@ -50,9 +50,9 @@ I've been coding and learning for several years now. Coming from data engineerin
 #### 🤖 Robotics & CV
 <p align="left">
   <!-- ROS2 -->
-  <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Ros_logo.svg" width="36" height="36" alt="ROS" title="ROS" />
-  </a>
+  <a href="https://docs.ros.org/en/humble/" target="_blank" rel="noreferrer">
+  <img src="./media/humble.png" width="36" height="36" alt="ROS2 Humble" title="ROS2 Humble" />
+</a>
   <!-- Raspberry Pi -->
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" title="Raspberry Pi"/>
