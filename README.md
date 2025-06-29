@@ -29,27 +29,18 @@ I've been coding and learning for several years now. Coming from data engineerin
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="36" alt="Apache Spark" title="Apache Spark"/>
   </a>
-
   <!-- Apache Cassandra -->
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" width="36" alt="Apache Cassandra" title="Apache Cassandra"/>
   </a>
-
   <!-- Apache Kafka Icon Fallback (Inline SVG Base64 if external fails) -->
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachekafka.svg" width="36" alt="Apache Kafka" title="Apache Kafka"/>
 </a>
-
-<!-- Alternative fallback as text if image fails -->
-<noscript>
-  <strong style="font-size: 16px; color: black;">Apache Kafka</strong>
-</noscript>
-
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" alt="MySQL" title="MySQL"/>
   </a>
-
   <!-- Grafana (fallback PNG) -->
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" width="36" alt="Grafana" title="Grafana"/>
