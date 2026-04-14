@@ -1,10 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Herberto
 ================================================================================================================================
 
-I've been coding and learning for several years now. Coming from data engineering with plcs, experimenting with frontend/backend using c#, I'm developing mobile, autonomous robots using ROS2/Python/C++. Right now, I'm exploring deep-learning based methods for 3D LiDAR Object Detection and deep-learning based reinforcement learning algorithms for navigation.
+I've been coding and learning for several years now. Coming from data engineering with plcs, experimenting with frontend/backend using c#, I'm developing mobile, autonomous robots using ROS2/Python/C++. 
+Right now, I'm exlporing:
+* Deep reinforcement learning algorithms for navigation (IsaacLab vs. Gazebo)
+* Underwater localization algorithms (VisualSLAM, VisualOdom, Dead Reckoning, EKF)
+  * Landmark-Detection using instance segmentation with Ultralytics YOLO models
+ 
+
+### Overview
 
 *   🖥️  See my portfolio at [All Projects are uploaded here](https://github.com/Hberto)
-*   🚀  I'm currently working on [Deep Reinforcement Learning for mobile robots using transformer-based encoder with td3](https://github.com/Hberto/rl_mobile_robot_navigation)
+*   🚀  I'm currently working on [Deep Reinforcement Learning for mobile robots using transformer-based encoder with td3](https://github.com/Hberto/rl_mobile_robot_navigation) and my underwater software stack (currently private)
 *   🧠  I'm learning Nvidia Stack - IsaacSim, IsaacLab. CI/CD Pipelines
 *   🤝  I'm open to collaborating on 3D LiDAR-based perception using a deep-learning approach. In general, open for projects related to robotics
 
