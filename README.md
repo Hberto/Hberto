@@ -20,10 +20,7 @@ Right now, I'm exlporing:
 
 **Latest Hackathon: ChefTreff AI. Build a medical research mcp**
  * [Medical MCP](https://github.com/token-enjoyers/chefftreff-hackathon)
-
-  <a href="https://www.github.com/HBerto" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/HBerto?logo=github&style=for-the-badge&color=ef4444&labelColor=ffffff" /></a>
-                  
+            
   
 ### Socials
                   
