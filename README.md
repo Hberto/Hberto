@@ -11,9 +11,12 @@ Right now, I'm exlporing:
 ### Overview
 
 *   🖥️  See my portfolio at [All Projects are uploaded here](https://github.com/Hberto)
-*   🚀  I'm currently working on [Deep Reinforcement Learning for mobile robots using transformer-based encoder with td3](https://github.com/Hberto/rl_mobile_robot_navigation) and my underwater software stack (currently private)
+*   🚀  I'm currently working on my underwater software stack (currently private) - (1) fast benchmarking of segmentation models for underwater applications (2) design of autonomous wheelchair architecture (3) implementation of bringups, behavior tree for autonomous wheelchair project
 *   🧠  I'm learning the Nvidia Stack - IsaacSim, IsaacLab and core concepts of SLAM algorithms for underwater.
 *   🤝  I'm open to collaborating on USV / AUV or simulation projects. In general, open for projects related to robotics
+*   **Open cleanup public projects:**
+  * [Deep Reinforcement Learning for mobile robots using transformer-based encoder with td3](https://github.com/Hberto/rl_mobile_robot_navigation)
+  * [plc pipeline](https://github.com/Hberto/plc-pipeline/tree/main)
 
   <a href="https://www.github.com/HBerto" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/HBerto?logo=github&style=for-the-badge&color=ef4444&labelColor=ffffff" /></a>
