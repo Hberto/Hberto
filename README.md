@@ -16,7 +16,6 @@ Right now, I'm exlporing:
 *   🤝  I'm open to collaborating on USV / AUV or simulation projects. In general, open for projects related to robotics
 *   **Open cleanup public projects:**
   * [Deep Reinforcement Learning for mobile robots using transformer-based encoder with td3](https://github.com/Hberto/rl_mobile_robot_navigation)
-  * [plc pipeline](https://github.com/Hberto/plc-pipeline/tree/main)
 
 **Latest Hackathon: ChefTreff AI. Build a medical research mcp**
  * [Medical MCP](https://github.com/token-enjoyers/chefftreff-hackathon)
